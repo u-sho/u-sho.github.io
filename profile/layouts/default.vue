@@ -50,9 +50,9 @@ export default {
           to: { name: 'index' }
         },
         {
-          title: 'Inspire',
-          icon: 'lightbulb',
-          to: { name: 'inspire' }
+          title: 'Buefy',
+          icon: 'view-dashboard',
+          to: { name: 'buefy' }
         }
       ]
     }
