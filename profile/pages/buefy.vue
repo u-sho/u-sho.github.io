@@ -34,7 +34,7 @@
 </template>
 
 <script>
-import Card from '~/components/Card'
+import Card from '~/components/pages/buefy/Card'
 
 export default {
   name: 'HomePage',
