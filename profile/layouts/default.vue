@@ -19,13 +19,15 @@
         <nuxt />
       </div>
     </section>
+    <Footer />
   </div>
 </template>
 
 <script>
 export default {
   components: {
-    Header: () => import('~/components/molecules/Header')
+    Header: () => import('~/components/molecules/Header'),
+    Footer: () => import('~/components/molecules/Footer')
   },
   data() {
     return {
