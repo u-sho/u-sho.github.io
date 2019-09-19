@@ -15,9 +15,9 @@
         </ul>
       </aside>
 
-      <div class="container column is-10">
+      <main class="container column is-10">
         <nuxt />
-      </div>
+      </main>
     </section>
     <Footer />
   </div>
